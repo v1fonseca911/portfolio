@@ -1,12 +1,13 @@
 # NLW eSports
 
-![preview](./.github/preview.png)
-> Trilha Explorer
 
-Projeto contruído do evento Next Level Week 
+> Trilha Explorer![portfolio foto](https://user-images.githubusercontent.com/113269524/211425991-f3036aff-9f6f-4206-8bc9-30915f74226d.png)
+
+
+Projeto contruído dos desafios do Discover da Rocketseat. 
 da Rocketseat.
 
-[Clique aqui para acessar](https://v1fonseca911.github.io/nlw)
+[Clique aqui para acessar](https://v1fonseca911.github.io/portfolio)
 
 
 ## Tecnologias
