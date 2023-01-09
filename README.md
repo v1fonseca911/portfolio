@@ -1,8 +1,6 @@
 # Portfólio
 
-
-> Trilha Explorer![portfolio foto](https://user-images.githubusercontent.com/113269524/211425991-f3036aff-9f6f-4206-8bc9-30915f74226d.png)
-
+![previw portfolio](https://user-images.githubusercontent.com/113269524/211428599-f21ebd22-b0e1-4d0f-bf5c-dfedd8cf7a0f.png)
 
 Projeto contruído dos desafios do Discover da Rocketseat. 
 da Rocketseat.
